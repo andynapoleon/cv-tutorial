@@ -1,0 +1,18 @@
+body {
+  background-color: floralwhite;
+}
+
+hr {
+  border-color: grey;
+  border-style: dotted none none none;
+  border-width: thick;
+  width: 5%;
+}
+
+h1 {
+  color: #C7B198;
+}
+
+h3 {
+  color: #C7B198;
+}
